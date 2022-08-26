@@ -36,14 +36,14 @@ Ejemplos:
 Entiende el mensaje *cenas* sin parámetros, el cual devuelve la cantidad de veces que roque dio de alimentar a su ave
 Desde que la está entrenando. (pensar como hacer para recordar este dato)
 Por ejemplo:
-- a roque se le encomienda entrenar a pepita
-- a roque se le pide alimentar a su ave
-- a roque se le pide nuevamente alimentar a su ave
-- a roque se le pregunta por las cenas: devuelve 2
-- a roque se le enconmienda  entrenar a pepon
-- a roque se le pide alimentar a su ave
-- a roque se le pregunta por las cenas: devuelve 1
-- a roque se le encomienda entrenar a pepita
-- a roque se le pregunta por las cenas: devuelve 0
+1. a roque se le encomienda entrenar a pepita
+2. a roque se le pide alimentar a su ave
+3. a roque se le pide nuevamente alimentar a su ave
+4. a roque se le pregunta por las cenas: devuelve 2
+5. a roque se le enconmienda  entrenar a pepon
+6. a roque se le pide alimentar a su ave
+7. a roque se le pregunta por las cenas: devuelve 1
+8. a roque se le encomienda entrenar a pepita
+9. a roque se le pregunta por las cenas: devuelve 0
 
 
