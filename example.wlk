@@ -33,7 +33,7 @@ object manzana {
 	}
 	
 	method madurar() {
-		self.madurez(madurez + 1)
+		madurez = madurez + self.energiaQueAporta() * 0.1
 	}
 	
 	method energiaQueAporta() {
