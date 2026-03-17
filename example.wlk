@@ -6,7 +6,11 @@ object pepita {
 	}
 	
 	method volar(distancia) {
-		energia = energia - 10 - distancia
+		energia = energia - 10 - distancia/10
+	}
+
+	method cansada() {
+		return energia < 30
 	}
 	
 	method energia() {
